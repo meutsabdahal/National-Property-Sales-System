@@ -1,1 +1,1 @@
-# National-Property-Sales-System
+A GUI based National Property Sales System for the management of property sales in the country

@@ -1,0 +1,4 @@
+[Pokhara, 12, $80000, No, No, $79000]
+[Northampton, 12, $60000, Yes, Yes, $19000]
+[Northampton, 12, $20000, Yes, Yes, $18000]
+[Kathmandu, 8, 50000, Yes, No, 49000]
